@@ -1,9 +1,9 @@
 {
   "pluginId": "neodex.f1",
   "repo": "NDesumeur/neodex-plugin-f1-phone",
-  "version": "1.0.0",
-  "sha256": "c83cd1b95163d290e7b09e95d3a09ebeb9a594e9dbd81959fac6b38c05d5fd9d",
-  "approvedAt": "2026-11-17T18:40:03.030Z",
+  "version": "1.0.1",
+  "sha256": "5c744335cf73d60b10ccf90ca9f4ee0fc27731d98812cf479c489b765a8743b4",
+  "approvedAt": "2026-11-19T23:26:44.275Z",
   "neobase": ">=4.0.0",
-  "signature": "KjrJx+fg/SnMbZ+nhwsTpn2woGkJJSw++xZERPmDSYauexfMyHsZ9XaWkErm4ORqjcnIKPAsFOIm7PyE7uIaDg=="
+  "signature": "iBGetlJU3FrQk3X4/1QomXj6942anBtqihwfYiYjKEOgrM0k/MqmTk5Pq3c2kDgcUVds1fiS5PXByIvCQus4Bw=="
 }
